@@ -1,0 +1,6 @@
+{
+  "name": "LIFELANE - AI Emergency Corridor",
+  "description": "AI-powered dynamic emergency corridor system providing advance directional warnings to clear traffic ahead of ambulances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
