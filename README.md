@@ -62,8 +62,6 @@ Amazon Bedrock
 Amazon Cognito
 🚀 Installation
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/LifeLane.git
-cd LifeLane
 2. Install Dependencies
 npm install
 3. Configure Environment Variables
@@ -82,10 +80,6 @@ Never upload your .env file or AWS credentials to GitHub.
 Start the development server:
 
 npm run dev
-
-The application will be available at:
-
-http://localhost:5173
 
 Open the URL in your browser.
 
