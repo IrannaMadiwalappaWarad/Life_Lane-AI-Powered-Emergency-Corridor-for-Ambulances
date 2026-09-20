@@ -73,7 +73,6 @@ VITE_AWS_REGION=your_aws_region
 VITE_AWS_USER_POOL_ID=your_user_pool_id
 VITE_AWS_CLIENT_ID=your_client_id
 
-Never upload your .env file or AWS credentials to GitHub.
 
 ▶️ Run the Application
 
